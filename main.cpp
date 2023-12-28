@@ -1,5 +1,3 @@
-//Instruction: https://docs.google.com/document/d/19OD5U-ZUqFsi1cJtRTk9OXJde95Xh8grmAekjJcB1ak/edit#
-//Sample Run: https://docs.google.com/document/d/1eaS5eJhiXA0MWIpJna1ScWlDb-IOn9V7aRuobeSAuOs/edit 
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -108,10 +106,6 @@ int main() {
     }
   } while (user_answer != 6); //Until the user response 6, then it will continue.
   
-  cout << "Well, thank you for trying out my final project code. I hope you find it to be interesting." << endl;
-  cout << "Credit to: Dr. Ouyang, Joanna S., and the STEM Center (Like Keith K.) for the support. I wouldn't never finish this without them. " << endl;
-  cout << "Also, I should've record the rest of the name who helped me in STEM Center. That was unfortunate. " << endl;
-  cout << "Good bye and let us enjoy our winter break. :) ";
   return 0;
  
 }
